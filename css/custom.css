@@ -1,0 +1,15 @@
+.size-icons {
+    font-size: 3rem;
+}
+
+a{
+    text-decoration: none;
+}
+
+.active {
+    font-weight: 600;
+}
+
+.work-duration {
+    text-transform: capitalize;
+}
