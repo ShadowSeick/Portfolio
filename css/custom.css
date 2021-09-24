@@ -18,3 +18,9 @@ a{
 .work-duration {
     text-transform: capitalize;
 }
+
+.in-progress {
+    padding: 1rem 2rem;
+    background-color: grey;
+    color: white;
+}
